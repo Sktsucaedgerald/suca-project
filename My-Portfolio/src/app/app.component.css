@@ -1,0 +1,85 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    width: 85%;
+    margin: 0 auto;
+  }
+  
+  .portfolio-header {
+    background-color: #1e00ff;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  
+  .about-section {
+    background-color: #1e00ff;
+  }
+  
+  
+  .contact-section {
+    background-color: #fff;
+  }
+  
+  .portfolio-footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .portfolio-footer p {
+    margin: 0;
+  }
+  
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    width: 85%;
+    margin: 0 auto;
+  }
+  
+  
+  .portfolio-header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  
+  .about-section {
+    background-color: #f9f9f9;
+    font-size: 20px;
+  }
+  
+  
+  
+  .contact-section {
+    background-color: #fff;
+    font-size: 20px;
+  }
+  
+   
+  .portfolio-footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+  }
+  
+  .portfolio-footer p {
+    margin: 0;
+  }
+  
